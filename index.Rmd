@@ -1,32 +1,36 @@
 ---
-title: "Welcome to My Portfolio"
+title: "Portfolio"
 ---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
+Welcome!
+I'm Victor, a problem solver passionate about
+extracting insights from complex problems and communicating findings to
+drive business decisions.
+What I Do
+I specialize in:
 
-## Hello and Welcome!
+📊 Data Analysis: Cleaning, transforming, and analyzing business data
+📈 Visualization: Creating clear, compelling charts with ggplot2
+📝 Reporting: Building professional reports that tell data stories
+🔍 Problem Solving: Applying statistical thinking to real-world
+challenges
 
-I'm Victor, and this is my portfolio. Here you'll find 
-projects showcasing my skills in:
+Portfolio Highlights
+Browse my projects to see:
 
-- Data cleaning and transformation
-- Statistical analysis
-- Data visualization with ggplot2
-- Professional reporting with R Markdown
+Government Data Analysis: Working with public datasets to extract
+business insights
+Performance Analytics: Analyzing operational data for decision-making
+Statistical Exploration: Uncovering patterns in real-world data
 
-### Featured Projects
+Technical Skills
+Tools: R, RStudio, R Markdown, ggplot2, dplyr
+Analysis: Data cleaning, exploratory analysis, statistical visualization
+Communication: Report generation, data storytelling, executive summaries
 
-Throughout this portfolio, you'll see analyses covering:
-
-- **Government Data Analysis:** Working with real-world public datasets
-- **Business Performance:** Analyzing operational data for insights
-- **Data Visualization:** Creating compelling charts and graphics
-
-### Navigate This Portfolio
-
-Use the menu above to:
-
-- Learn more [about me](about.html)
-- View my [projects](projects.html)
-
----
-
-*This portfolio was built using R Markdown and is hosted on GitHub Pages.*
+Let's Connect
+📧 victorchipanyama@icloud.com
+💼 Victor Chipanyama
+This portfolio showcases projects from my MGMT coursework and
+demonstrates practical skills in R and statistical analysis.
